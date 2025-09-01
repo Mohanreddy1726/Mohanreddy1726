@@ -1,43 +1,70 @@
-# Hi there, I'm Mohan Reddy Narada 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohanreddy1726&color=blue" alt="Profile views" />
+</p>
 
-## MERN Stack Developer | Full-Stack Enthusiast
+<h1 align="center">Hi there, I'm Mohan Reddy Narada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Welcome to my GitHub profile! I am a passionate **MERN Stack Developer** with 2+ years of experience designing and building scalable web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy creating efficient backend APIs and responsive UIs with modern JavaScript technologies.
+<h3 align="center">MERN Stack Developer | Full-Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohan-reddy-8b097620a" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naradamohan1@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mohanreddy1726" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🔧 Technologies & Tools
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** ReactJS, HTML, CSS, Bootstrap, TailwindCSS
-- **Backend:** NodeJS, ExpressJS
-- **Database:** MongoDB
-- **Tools:** Git, Postman, ThunderClient, Clerk, Cloudinary, AI integrations
+### 🛠️ Technologies & Tools
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Portfolio Highlights
 
-- **HR Management System:** Streamlines HR operations like leave management, attendance, payroll, and gatepass automation. [Live Demo](https://hrms.anikasterilis.com)
-- **Electricity Management System:** Real-time monitoring and visualization of energy consumption data for optimized energy usage. [Live Demo](https://electricity.anikasterilis.com)
-- **Machine Vitals Monitoring System:** Monitors machine critical parameters in real-time for predictive maintenance. [Live Demo](https://mvmiot.anikasterilis.com)
-- **E-Commerce Platform:** Full-featured MERN stack e-commerce website with product browsing, cart, order management, and payments.
-- **Food Delivery Platform:** Food ordering system with real-time order and delivery tracking.
-- **Doctor Appointment System:** React-based app for booking and managing doctor appointments seamlessly.
+- 💼 **HR Management System** – Streamlines HR operations including leave, attendance, payroll, and gatepass automation. [Live Demo](https://hrms.anikasterilis.com)
+- ⚡ **Electricity Management System** – Real-time energy consumption tracking and visualization for cost optimization. [Live Demo](https://electricity.anikasterilis.com)
+- 🛠️ **Machine Vitals Monitoring System** – Monitors CNC machine parameters for predictive maintenance. [Live Demo](https://mvmiot.anikasterilis.com)
+- 🛒 **E-Commerce Platform** – Full MERN stack e-commerce solution with product browsing, cart, and payments.
+- 🍔 **Food Delivery Platform** – Real-time food ordering and delivery tracking system.
+- 🩺 **Doctor Appointment System** – React app for seamless appointment booking and schedule management.
 
 ---
 
 ### 📫 Get in Touch
 
-- Email: naradamohan1@gmail.com  
-- LinkedIn: [linkedin.com/in/mohan-reddy-8b097620a](https://www.linkedin.com/in/mohan-reddy-8b097620a)  
-- GitHub: [github.com/Mohanreddy1726](https://github.com/Mohanreddy1726)
+<p>
+  <a href="https://www.linkedin.com/in/mohan-reddy-8b097620a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:naradamohan1@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/Mohanreddy1726" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Follow-%23000000?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanreddy1726&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohanreddy1726&show_icons=true&theme=radical" alt="Mohan's GitHub Stats" />
+</p>
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations or opportunities.
+Thanks for stopping by! Feel free to explore my work and connect for collaboration or opportunities! 🚀

@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer | Full-Stack Enthusiast
 
-Welcome to my GitHub profile! I am a passionate **MERN Stack Developer** with 3+ years of experience designing and building scalable web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy creating efficient backend APIs and responsive UIs with modern JavaScript technologies.
+Welcome to my GitHub profile! I am a passionate **MERN Stack Developer** with 2+ years of experience designing and building scalable web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy creating efficient backend APIs and responsive UIs with modern JavaScript technologies.
 
 ---
 

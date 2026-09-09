@@ -1,35 +1,25 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                             ║
-║   $ whoami                                                 ║
-║   > Mohan Reddy Narada                                     ║
-║                                                             ║
-║   $ role --list                                            ║
-║   > MERN Stack Developer | Next.js Engineer                ║
-║   > SEO / Digital Marketing                                ║
-║   > AI-Assisted Builder (Claude Code, Vibe Coding)          ║
-║                                                             ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:C9FFBF&height=230&section=header&text=Mohan%20Reddy%20Narada&fontSize=42&fontColor=2D2D2D&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20Next.js&descAlignY=58&descSize=18&fontColor=333333" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&width=650&height=40&lines=building+products+that+load+fast+%26+rank+well;shipping+with+react+%2B+next.js+%2B+node;prompting+claude+code+into+production" alt="terminal typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=900&color=E75480&center=true&width=600&lines=Building+clean%2C+conversion-ready+web+products;SEO+%2F+Digital+Marketing+minded+developer;Exploring+AI-assisted+workflows+with+Claude+Code" alt="typing"/>
 
 <br/>
 
-![views](https://komarev.com/ghpvc/?username=Mohanreddy1726&color=39FF14&style=flat-square&label=views)
-![followers](https://img.shields.io/github/followers/Mohanreddy1726?label=followers&style=flat-square&color=39FF14&logo=github)
+<img src="https://komarev.com/ghpvc/?username=Mohanreddy1726&color=E75480&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Mohanreddy1726?label=FOLLOWERS&style=for-the-badge&color=8E44AD&logo=github"/>
 
-<a href="https://www.linkedin.com/in/mohan-reddy-8b097620a"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=39FF14" /></a>
-<a href="mailto:naradamohan1@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=39FF14" /></a>
-<a href="https://github.com/Mohanreddy1726"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=39FF14" /></a>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohan-reddy-8b097620a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:naradamohan1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mohanreddy1726"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br>
+<br/>
 
-## about-me
+## 🧑‍💻 About Me
 
 ```yaml
 developer: Mohan Reddy Narada
@@ -42,137 +32,155 @@ currently_building:
 focus: clean UI, smooth interactions, products that convert
 ```
 
-<br>
+<br/>
 
-## stack.json
+<div align="center">
 
-<table>
-<tr><th>layer</th><th>tools</th></tr>
-<tr><td><code>frontend</code></td><td><img src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwindcss"/> <img src="https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap"/></td></tr>
-<tr><td><code>backend</code></td><td><img src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js"/> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express"/> <img src="https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb"/></td></tr>
-<tr><td><code>growth</code></td><td><img src="https://img.shields.io/badge/-SEO-000?style=flat-square&logo=googlesearchconsole"/> <img src="https://img.shields.io/badge/-Digital_Marketing-000?style=flat-square&logo=googleanalytics"/></td></tr>
-<tr><td><code>ai_workflow</code></td><td><img src="https://img.shields.io/badge/-Claude_Code-000?style=flat-square&logo=anthropic"/> <img src="https://img.shields.io/badge/-Vibe_Coding-000?style=flat-square&logo=sparkles"/></td></tr>
-<tr><td><code>tooling</code></td><td><img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github"/> <img src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3"/></td></tr>
+## 🎨 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,html,css,git,github,figma&theme=light&perline=7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Marketing-FF6B6B?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe_Coding-8E44AD?style=for-the-badge&logo=sparkles&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## ✨ Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🎓
+**GVK EduTech**
+<br/>
+<sub>Overseas education consultancy platform for MBBS-abroad & Masters programs — animated hero, leadership showcase, certifications gallery, 11-branch listings.</sub>
+<br/><br/>
+<a href="https://gvkedutech.com"><img src="https://img.shields.io/badge/Visit%20Site-FFAFBD?style=for-the-badge&logoColor=333"/></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤝
+**GVK Brothers Foundation**
+<br/>
+<sub>Editorial-style nonprofit landing page — broadsheet typography, immersive Three.js particle background, navy & red palette.</sub>
+<br/><br/>
+<a href="https://gvkfoundation.vercel.app"><img src="https://img.shields.io/badge/Visit%20Site-C9FFBF?style=for-the-badge&logoColor=333"/></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔥
+**Forge**
+<br/>
+<sub>180-day progress tracker — habit scoring out of 100, weight trend charts, streak heatmap, workout logs & progress photos.</sub>
+<br/><br/>
+<a href="https://forge-mr.vercel.app"><img src="https://img.shields.io/badge/Visit%20Site-FFE29A?style=for-the-badge&logoColor=333"/></a>
+
+</td>
+</tr>
 </table>
 
-<br>
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-## projects/
+### 💼
+**HR Management System**
+<br/>
+<sub>Leave, attendance, payroll & gatepass automation for internal teams.</sub>
+<br/><br/>
+<a href="https://hrms.anikasterilis.com"><img src="https://img.shields.io/badge/Live%20Demo-D6E4FF?style=for-the-badge&logoColor=333"/></a>
 
-<details open>
-<summary><code>📁 gvk-edutech-website/</code> — overseas education consultancy platform</summary>
-<br>
+</td>
+<td width="33%" align="center" valign="top">
 
-Marketing and lead-gen site for MBBS-abroad and Masters consultancy. Multi-slide hero, animated leadership/achievements section, certifications gallery with modal viewer, 11 branch listings — built for conversions and SEO.
+### ⚡
+**Electricity Management System**
+<br/>
+<sub>Real-time energy consumption tracking & visualization for cost optimization.</sub>
+<br/><br/>
+<a href="https://electricity.anikasterilis.com"><img src="https://img.shields.io/badge/Live%20Demo-FFD6E8?style=for-the-badge&logoColor=333"/></a>
 
-`live:` **[gvkedutech.com](https://gvkedutech.com)**
+</td>
+<td width="33%" align="center" valign="top">
 
-</details>
+### 🛠️
+**Machine Vitals Monitoring**
+<br/>
+<sub>IoT-driven CNC machine monitoring for predictive maintenance.</sub>
+<br/><br/>
+<a href="https://mvmiot.anikasterilis.com"><img src="https://img.shields.io/badge/Live%20Demo-D6FFEA?style=for-the-badge&logoColor=333"/></a>
 
-<details open>
-<summary><code>📁 gvk-brothers-foundation/</code> — nonprofit website</summary>
-<br>
+</td>
+</tr>
+</table>
 
-Editorial-style landing page for a nonprofit focused on education, health, empowerment, and community development. Broadsheet layout, immersive Three.js particle background, navy-and-red palette.
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-`live:` **[gvkfoundation.vercel.app](https://gvkfoundation.vercel.app)**
+### 🛒
+**E-Commerce Platform**
+<br/>
+<sub>Full MERN storefront — browsing, cart, and payment integration.</sub>
 
-</details>
+</td>
+<td width="33%" align="center" valign="top">
 
-<details open>
-<summary><code>📁 forge/</code> — 180-day progress tracking app</summary>
-<br>
+### 🍔
+**Food Delivery Platform**
+<br/>
+<sub>Real-time ordering with a live delivery status pipeline.</sub>
 
-Premium transformation tracker for weight loss, habits, and discipline. Scores 16 daily habits into one 0–100 score, charts weight trends against a goal line, heatmap streaks, workout logs, and progress photos.
+</td>
+<td width="33%" align="center" valign="top">
 
-`live:` **[forge-mr.vercel.app](https://forge-mr.vercel.app)**
+### 🩺
+**Doctor Appointment System**
+<br/>
+<sub>Seamless appointment booking & schedule management.</sub>
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><code>📁 hr-management-system/</code> — HR operations platform</summary>
-<br>
+<br/>
 
-Streamlines leave, attendance, payroll, and gatepass automation for internal teams.
-
-`live:` **[hrms.anikasterilis.com](https://hrms.anikasterilis.com)**
-
-</details>
-
-<details>
-<summary><code>📁 electricity-management-system/</code> — energy monitoring dashboard</summary>
-<br>
-
-Real-time energy consumption tracking and visualization for cost optimization.
-
-`live:` **[electricity.anikasterilis.com](https://electricity.anikasterilis.com)**
-
-</details>
-
-<details>
-<summary><code>📁 machine-vitals-monitoring/</code> — CNC predictive maintenance</summary>
-<br>
-
-IoT-driven monitoring of CNC machine parameters to support predictive maintenance.
-
-`live:` **[mvmiot.anikasterilis.com](https://mvmiot.anikasterilis.com)**
-
-</details>
-
-<details>
-<summary><code>📁 ecommerce-platform/</code> — full MERN storefront</summary>
-<br>
-
-Product browsing, cart management, and payment integration end to end.
-
-</details>
-
-<details>
-<summary><code>📁 food-delivery-platform/</code> — real-time ordering system</summary>
-<br>
-
-Real-time food ordering and delivery tracking with a live status pipeline.
-
-</details>
-
-<details>
-<summary><code>📁 doctor-appointment-system/</code> — booking & scheduling app</summary>
-<br>
-
-React app for seamless appointment booking and doctor schedule management.
-
-</details>
-
-<br>
-
-## stats.log
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohanreddy1726&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" height="165em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanreddy1726&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohanreddy1726&show_icons=true&theme=graywhite&hide_border=true&title_color=E75480&icon_color=E75480" height="165em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanreddy1726&layout=compact&theme=graywhite&hide_border=true&title_color=E75480" height="165em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanreddy1726&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanreddy1726&theme=default&hide_border=true&ring=E75480&fire=E75480&currStreakLabel=E75480"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohanreddy1726&theme=onedark&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohanreddy1726&theme=flat&no-frame=true&row=1&column=6"/>
 
 </div>
 
-<br>
+<br/>
 
-## contact.sh
-
-```bash
-$ ./reach_out.sh --to Mohan
-
->> preferred channels:
-   [1] linkedin.com/in/mohan-reddy-8b097620a
-   [2] naradamohan1@gmail.com
-   [3] github.com/Mohanreddy1726
-
->> status: open to collaboration & opportunities
-```
+## 📬 Get In Touch
 
 <div align="center">
-<sub>thanks for reading this far — now go build something 🚀</sub>
+
+<a href="https://www.linkedin.com/in/mohan-reddy-8b097620a"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/><br/>
+<a href="mailto:naradamohan1@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello%20via%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by — always open to interesting projects and collaborations 🌸</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9FFBF,100:FFAFBD&height=150&section=footer" width="100%"/>
